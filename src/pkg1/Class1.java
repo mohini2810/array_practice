@@ -26,7 +26,6 @@ public class Class1 {
 		}
 		
 		System.out.print("c = ");
-		
 		System.out.println(Arrays.toString(c));
 		
 
